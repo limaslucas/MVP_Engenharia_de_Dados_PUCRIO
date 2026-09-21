@@ -19,7 +19,7 @@ Antes da ingestão dos dados, o escopo do projeto foi definido com foco em extra
 ## 2. Coleta e Armazenamento
 Os dados utilizados consistem em uma base hospitalar fictícia estruturada em formato `.csv` (contendo 1000 registros originais). A coleta foi realizada de forma direta (upload manual) e os dados foram armazenados de forma persistente na nuvem através do **DBFS (Databricks File System)**, atuando como a nossa camada Raw/Bronze.
 
-![Evidência da Coleta no DBFS](COLOQUE_O_LINK_DA_SUA_IMAGEM_AQUI)
+![Evidência da Coleta no DBFS](carg)
 
 ---
 
